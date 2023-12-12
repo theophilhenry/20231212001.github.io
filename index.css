@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'BrittanySignature';
-  src: URL('/fonts/BrittanySignature.ttf') format('truetype');
+  src: URL('https://theophilhenry.github.io/20231212001.github.io/fonts/BrittanySignature.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'IbarraRealNova-Regular';
-  src: URL('https://theophilhenry.github.io/20231212001.github.io/fonts/BrittanySignature.ttf') format('truetype');
+  src: URL('https://theophilhenry.github.io/20231212001.github.io/fonts/IbarraRealNova-Regular.ttf') format('truetype');
 }
 @font-face {
   font-family: 'IbarraRealNova-Bold';
