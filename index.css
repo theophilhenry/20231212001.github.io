@@ -5,9 +5,9 @@
 
 @font-face {
   font-family: 'IbarraRealNova-Regular';
-  src: URL('/fonts/IbarraRealNova-Regular.ttf') format('truetype');
+  src: URL('../fonts/IbarraRealNova-Regular.ttf') format('truetype');
 }
 @font-face {
   font-family: 'IbarraRealNova-Bold';
-  src: URL('/fonts/IbarraRealNova-Bold.ttf') format('truetype');
+  src: URL('../fonts/IbarraRealNova-Bold.ttf') format('truetype');
 }
